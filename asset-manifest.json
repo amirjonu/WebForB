@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WebForB/static/css/main.5c8cdd6a.css",
+    "main.js": "/WebForB/static/js/main.79a51025.js",
+    "index.html": "/WebForB/index.html",
+    "main.5c8cdd6a.css.map": "/WebForB/static/css/main.5c8cdd6a.css.map",
+    "main.79a51025.js.map": "/WebForB/static/js/main.79a51025.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c8cdd6a.css",
+    "static/js/main.79a51025.js"
+  ]
+}

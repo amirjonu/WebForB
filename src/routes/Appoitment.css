@@ -1,0 +1,11 @@
+.box {
+    width: 1000px;
+    height: 700px;
+    overflow: hidden;
+}
+
+@media screen and (max-width: 450px) {
+    .box {
+        top: 70px;
+    }
+   }
